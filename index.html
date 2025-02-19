@@ -24,5 +24,11 @@ crossorigin="anonymous">
 <body>
     <h1>This is my Webpage</h1>
     <div id="viz"></div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            vegaEmbed("#viz","myvis.vl");
+        })
+    </script>
+    
 </body>
 </html>
