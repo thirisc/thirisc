@@ -30,5 +30,5 @@ Both of the plots include an interactive legend. I chose legend selection as the
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/thirisc/thirisc.github.io/blob/75d2f424a29d833b6ec206f5da553b5e6965dd87/python_notebooks/Workbook.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/thirisc/thirisc.github.io/blob/63becaaee8a737120d402a1bfadab6b0ee415d52/python_notebooks/Workbook.ipynb" text="The Analysis" %}
 </div>
