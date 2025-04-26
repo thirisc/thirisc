@@ -6,7 +6,7 @@ description: This is a "showcase" project that uses altair for interactive viz!
 
 ### Visualization 1: License Type Distribution by Region 
 
-![License Type Distribution by Region](../images/licenseplot1.svg)
+![License Type Distribution by Region](../images/licennseplot1.svg)
 
 This plot displays the distribution of license types across different U.S. regions. I first mapped each state to their respective region - I divided the US into 6 including a distinction between the Inner West and Pacific Coast states. This is to see if there are license type variations by region that generally shares similar geographical, cultural and/or economic factors. I chose stacked bar chart as it is one of the optimal ways to show how categories compare to each other for each state. The result turned out skewed due to Midwest having a disporportionate numerical amount of licenses applied or actively reviewed. However, the fact still remains that it is a good way to explore two multivariables against each other - the states vs the licenses types. 
 
